@@ -1,12 +1,8 @@
-### Hello there, I'm ChaconneLuo 👋
+### Hello there, I'm WhisperPong 👋
 
-#### - ⚡ Language：
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhisperPong&show_icons=true&hide_border=false" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WhisperPong&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,rust,java,py&theme=light)
+![](https://komarev.com/ghpvc/?username=WhisperPong&color=brightgreen)
 
-  
-#### - 📫 Skills：
-
-![My Skills](https://skillicons.dev/icons?i=git,spring,redis,docker,nodejs,tauri,figma,github,tailwind,graphql,java,linux,md,mongodb,py,wasm,js,ts,html,css,react,rust,vite,vue,nestjs,nextjs&theme=light)
-
-#### 💪 Keeping Learning!
+#### Keeping Learning!
